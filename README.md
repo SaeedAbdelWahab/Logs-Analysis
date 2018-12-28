@@ -1,6 +1,6 @@
 # Logs-Analysis
 
-Source code for logs analyzer by quering postgresql data base.
+Source code for logs analyzer by quering PostgreSQL data base.
 
 This is the third project of the full stack developer nanodegree which is a part of 
 the One Million arab coders initiative
